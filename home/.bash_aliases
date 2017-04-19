@@ -44,10 +44,6 @@ alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
 
-alias cdxlxz='cd /cygdrive/d/迅雷下载/'
-alias cddocument='cd /cygdrive/d/库/文档/AMyFiles/'
-alias cddesktop='cd /cygdrive/c/Users/lenovo/Desktop/'
-
 # useful alias list: https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 
 alias urldecode='python -c "import sys, urllib as ul; print ul.unquote_plus(sys.argv[1])"'
