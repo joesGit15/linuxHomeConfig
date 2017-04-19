@@ -1,0 +1,13 @@
+BoldAsFont=-1
+CursorColour=0,0,255
+CursorType=block
+Font=Consolas
+FontHeight=12
+Transparency=off
+OpaqueWhenFocused=no
+FontSmoothing=full
+AllowBlinking=no
+Rows=40
+CursorBlinks=yes
+Locale=C
+Charset=UTF-8

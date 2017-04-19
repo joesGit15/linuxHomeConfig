@@ -1,0 +1,10 @@
+[color]
+    ui = true
+[alias]
+    st = status
+    co = checkout
+    ci = commit
+    br = branch
+[user]
+	email = little_star13@163.com
+	name = joe
